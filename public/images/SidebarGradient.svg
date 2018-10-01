@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="250px" height="130px" viewBox="0 0 250 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>SidebarGradient</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="29.3530273%" x2="101.999998%" y2="100.999999%" id="linearGradient-1">
+            <stop stop-color="#1976D2" offset="0%"></stop>
+            <stop stop-color="#9E42B5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Front-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" fill="url(#linearGradient-1)" stroke="#979797">
+            <path d="M0.5,0.5 L0.5,112.557418 L249.5,129.464898 L249.5,0.5 L0.5,0.5 Z" id="SidebarGradient"></path>
+        </g>
+    </g>
+</svg>

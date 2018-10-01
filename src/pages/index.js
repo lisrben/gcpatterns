@@ -15,7 +15,7 @@ class RootIndex extends React.Component {
         <Helmet title={siteTitle} />
         <Hero data={author.node} />
         <div className="wrapper">
-          <h2 className="section-headline">Recent articles</h2>
+          <h1 className="section-headline">Documentation</h1>
           <ul className="article-list">
             {posts.map(({ node }) => {
               return (
@@ -35,15 +35,14 @@ export default RootIndex
 
 export const pageQuery = graphql`
   query HomeQuery {
-    allContentfulBlogPost(sort: { fields: [publishDate], order: DESC }) {
+    allContentfulBlogPost(sort: { fields: [title], order: ASC }) {
       edges {
         node {
           title
           slug
-          publishDate(formatString: "MMMM Do, YYYY")
           tags
           heroImage {
-            sizes(maxWidth: 350, maxHeight: 196, resizingBehavior: SCALE) {
+            sizes(maxWidth: 350, maxHeight: 220, resizingBehavior: SCALE) {
              ...GatsbyContentfulSizes_withWebp
             }
           }
