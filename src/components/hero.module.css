@@ -1,5 +1,5 @@
 .hero {
-  background-image:url(/public/images/HomeGradientBg.svg);
+  background-image:url(/images/HomeGradientBg.svg);
   position: relative;
   color: #fff;
   text-align: center;
@@ -9,7 +9,7 @@
 }
 .hero::before{
   content: "";
-  background-image:url(/public/images/Logo.svg);
+  background-image:url(/images/Logo.svg);
   width: 241px;
   height: 75px;
   position: absolute;
