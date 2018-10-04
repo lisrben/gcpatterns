@@ -15,7 +15,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/layout-index.json"),
-  "blog-automate-with-webhooks.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-automate-with-webhooks.json"),
+  "blog-artwork.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-artwork.json"),
   "blog-hello-world.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-hello-world.json"),
   "blog-static-sites-are-great.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-static-sites-are-great.json"),
   "blog-this-is-a-new-blog-post.json": require("/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-this-is-a-new-blog-post.json"),

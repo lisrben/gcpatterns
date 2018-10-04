@@ -36,9 +36,7 @@ h2 {
   font-size: 2em;
   font-weight: normal;
 }
-h3 {
 
-}
 
 a {
   color: currentColor;
@@ -50,6 +48,16 @@ a {
   margin: 0 auto;
   padding: 5vmin 0;
 }
+.blogWrapper {
+  width: calc(100% - 10vmin - 260px);
+  margin-left:40px;
+  padding: 5vmin 0;
+}
+.blogWrapper a {
+  color: #1976D2;
+  text-decoration: none;
+}
+
 
 /**
  * article grid

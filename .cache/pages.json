@@ -3,8 +3,8 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "blog-automate-with-webhooks.json",
-        "path": "/blog/automate-with-webhooks/"
+        "jsonName": "blog-artwork.json",
+        "path": "/blog/artwork/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

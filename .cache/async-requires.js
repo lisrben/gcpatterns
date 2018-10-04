@@ -10,7 +10,7 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/layout-index.json"),
-  "blog-automate-with-webhooks.json": require("gatsby-module-loader?name=path---blog-automate-with-webhooks!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-automate-with-webhooks.json"),
+  "blog-artwork.json": require("gatsby-module-loader?name=path---blog-artwork!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-artwork.json"),
   "blog-hello-world.json": require("gatsby-module-loader?name=path---blog-hello-world!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-hello-world.json"),
   "blog-static-sites-are-great.json": require("gatsby-module-loader?name=path---blog-static-sites-are-great!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-static-sites-are-great.json"),
   "blog-this-is-a-new-blog-post.json": require("gatsby-module-loader?name=path---blog-this-is-a-new-blog-post!/Users/c_bflores/Documents/GitHub/gcpatterns/.cache/json/blog-this-is-a-new-blog-post.json"),
