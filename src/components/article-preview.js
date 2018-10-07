@@ -1,7 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Img from 'gatsby-image'
-
 import styles from './article-preview.module.css'
 
 export default ({ article }) => (
@@ -11,7 +10,7 @@ export default ({ article }) => (
     
       <h3 className={styles.previewTitle}>
         {article.title}
-        </h3>
+      </h3>
     </Link>
   </div>
 )

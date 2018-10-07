@@ -5,11 +5,11 @@ import styles from './sidebar.module.css'
 
 
 export default ({ article }) => (
-    <Link to={`/blog/${article.slug}`} activeStyle={{
-            backgroundColor: "#E8EAEB",
-          }}>
+  <div className={styles.preview}>
+    <Link to={`/blog/${article.slug}`}>
       <h3 className={styles.previewTitle}>
         {article.title}
       </h3>
     </Link>
+  </div>
 )

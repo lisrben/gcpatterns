@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "97bae7e1e230fe2a7b8175e4f9eca98e",
+        "contentDigest": "03ddaf166c54ca323a57c85801b4e7b0",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -766,12 +766,12 @@
       "host": "localhost",
       "pathPrefix": "/gatsby-contentful-starter",
       "polyfill": true,
-      "buildTime": "2018-10-04T00:09:11.447Z",
+      "buildTime": "2018-10-06T06:07:19.042Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e1c88400710449115e52b927dafb733e",
+        "contentDigest": "616e4fe17f8ccba5da25d0188101ea4e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -862,7 +862,7 @@
       "id": "c31TNnjHlfaGUoMOwU0M2og",
       "contentful_id": "31TNnjHlfaGUoMOwU0M2og",
       "createdAt": "2018-09-25T05:44:02.443Z",
-      "updatedAt": "2018-10-02T17:41:35.881Z",
+      "updatedAt": "2018-10-04T05:54:51.249Z",
       "parent": "Blog Post",
       "children": [
         "c31TNnjHlfaGUoMOwU0M2ogdescriptionTextNode",
@@ -870,7 +870,7 @@
       ],
       "internal": {
         "type": "ContentfulBlogPost",
-        "contentDigest": "c71408f79a08c55020edd0dd34607ae0",
+        "contentDigest": "cff21e8979892a66f1ceedc3cd1e9a79",
         "owner": "gatsby-source-contentful"
       },
       "node_locale": "en-US"
@@ -1340,12 +1340,12 @@
       "children": [
         "c31TNnjHlfaGUoMOwU0M2ogbodyTextNode >>> MarkdownRemark"
       ],
-      "body": "[Comment](https://sketch.cloud/s/lGLKo/Vbk9R8)\n\n## What are webhooks?\n\nThe webhooks are used to notify you when content has been changed. Specify a URL, configure your webhook, and we will send an HTTP POST request whenever something happens to your content.\n\n## How do I configure a webhook?\n\nGo to Settings → Webhooks from the navigation bar at the top. From there, hit Add webhook, and you will be directed to your new webhook. Then choose a name, put in the information of your HTTP endpoint (URL and authentication), specify any custom headers and select the types of events that should trigger the webhook.\n\n## Why do I get an old version in the CDA?\n\nAs the delivery API is powered by a CDN network consisting of hundreds of servers distributed across continents, it takes some time (up to a few minutes) to reflect the changes to the published content. This must be taken into consideration when reacting to webhooks. In normal conditions, there could be a reasonable delay of 2 to 5 minutes.\n\nExtracted from the [Webhooks FAQ](https://www.contentful.com/faq/webhooks/ \"Webhooks FAQ\").",
+      "body": "[Comment](https://share.goabstract.com/1213ce5c-ed7b-4f19-822b-0247c2931901)\n\n## What types of artboards are available\n\nThough it's recommended to use the main type of artboard layout. There are two other types of layouts available as well, the __Cards__ layout and the __Onboard__ layout\n\n## Dos & Don'ts\n\nThis is some information on what to do and what not to do.\n",
       "internal": {
         "type": "contentfulBlogPostBodyTextNode",
         "mediaType": "text/markdown",
-        "content": "[Comment](https://sketch.cloud/s/lGLKo/Vbk9R8)\n\n## What are webhooks?\n\nThe webhooks are used to notify you when content has been changed. Specify a URL, configure your webhook, and we will send an HTTP POST request whenever something happens to your content.\n\n## How do I configure a webhook?\n\nGo to Settings → Webhooks from the navigation bar at the top. From there, hit Add webhook, and you will be directed to your new webhook. Then choose a name, put in the information of your HTTP endpoint (URL and authentication), specify any custom headers and select the types of events that should trigger the webhook.\n\n## Why do I get an old version in the CDA?\n\nAs the delivery API is powered by a CDN network consisting of hundreds of servers distributed across continents, it takes some time (up to a few minutes) to reflect the changes to the published content. This must be taken into consideration when reacting to webhooks. In normal conditions, there could be a reasonable delay of 2 to 5 minutes.\n\nExtracted from the [Webhooks FAQ](https://www.contentful.com/faq/webhooks/ \"Webhooks FAQ\").",
-        "contentDigest": "ac2400fe709360d9688f638c64d6dad1",
+        "content": "[Comment](https://share.goabstract.com/1213ce5c-ed7b-4f19-822b-0247c2931901)\n\n## What types of artboards are available\n\nThough it's recommended to use the main type of artboard layout. There are two other types of layouts available as well, the __Cards__ layout and the __Onboard__ layout\n\n## Dos & Don'ts\n\nThis is some information on what to do and what not to do.\n",
+        "contentDigest": "6ee743f24fe6a2b1ccc548bf61df3288",
         "owner": "gatsby-source-contentful"
       }
     },
@@ -1372,9 +1372,9 @@
       "children": [],
       "parent": "c31TNnjHlfaGUoMOwU0M2ogbodyTextNode",
       "internal": {
-        "content": "[Comment](https://sketch.cloud/s/lGLKo/Vbk9R8)\n\n## What are webhooks?\n\nThe webhooks are used to notify you when content has been changed. Specify a URL, configure your webhook, and we will send an HTTP POST request whenever something happens to your content.\n\n## How do I configure a webhook?\n\nGo to Settings → Webhooks from the navigation bar at the top. From there, hit Add webhook, and you will be directed to your new webhook. Then choose a name, put in the information of your HTTP endpoint (URL and authentication), specify any custom headers and select the types of events that should trigger the webhook.\n\n## Why do I get an old version in the CDA?\n\nAs the delivery API is powered by a CDN network consisting of hundreds of servers distributed across continents, it takes some time (up to a few minutes) to reflect the changes to the published content. This must be taken into consideration when reacting to webhooks. In normal conditions, there could be a reasonable delay of 2 to 5 minutes.\n\nExtracted from the [Webhooks FAQ](https://www.contentful.com/faq/webhooks/ \"Webhooks FAQ\").",
+        "content": "[Comment](https://share.goabstract.com/1213ce5c-ed7b-4f19-822b-0247c2931901)\n\n## What types of artboards are available\n\nThough it's recommended to use the main type of artboard layout. There are two other types of layouts available as well, the __Cards__ layout and the __Onboard__ layout\n\n## Dos & Don'ts\n\nThis is some information on what to do and what not to do.\n",
         "type": "MarkdownRemark",
-        "contentDigest": "cb42b0a0edb6066dcfd2146286893713",
+        "contentDigest": "d76cdfad4f3493c5ec73e09bc3356789",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1383,7 +1383,7 @@
         "parent": "c31TNnjHlfaGUoMOwU0M2ogbodyTextNode"
       },
       "excerpt": "",
-      "rawMarkdownBody": "[Comment](https://sketch.cloud/s/lGLKo/Vbk9R8)\n\n## What are webhooks?\n\nThe webhooks are used to notify you when content has been changed. Specify a URL, configure your webhook, and we will send an HTTP POST request whenever something happens to your content.\n\n## How do I configure a webhook?\n\nGo to Settings → Webhooks from the navigation bar at the top. From there, hit Add webhook, and you will be directed to your new webhook. Then choose a name, put in the information of your HTTP endpoint (URL and authentication), specify any custom headers and select the types of events that should trigger the webhook.\n\n## Why do I get an old version in the CDA?\n\nAs the delivery API is powered by a CDN network consisting of hundreds of servers distributed across continents, it takes some time (up to a few minutes) to reflect the changes to the published content. This must be taken into consideration when reacting to webhooks. In normal conditions, there could be a reasonable delay of 2 to 5 minutes.\n\nExtracted from the [Webhooks FAQ](https://www.contentful.com/faq/webhooks/ \"Webhooks FAQ\")."
+      "rawMarkdownBody": "[Comment](https://share.goabstract.com/1213ce5c-ed7b-4f19-822b-0247c2931901)\n\n## What types of artboards are available\n\nThough it's recommended to use the main type of artboard layout. There are two other types of layouts available as well, the __Cards__ layout and the __Onboard__ layout\n\n## Dos & Don'ts\n\nThis is some information on what to do and what not to do.\n"
     },
     "SitePage /blog/artwork/": {
       "layout": "index",
@@ -1403,7 +1403,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "996f89585ca5096edaeaa820714a931e",
+        "contentDigest": "5e51f65d3b454b439207855a9cdeefad",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1426,7 +1426,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "61944302529a0d27a42df3466da07721",
+        "contentDigest": "9d4f5dec351a1172ae7c37933061468f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1449,7 +1449,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e907dcf1ea0d327e86c84b45cbd19a39",
+        "contentDigest": "a3f8c73964dd15db2683e720ad8b1353",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1472,7 +1472,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e936086efb6cd1fe93b9ec4617cb2217",
+        "contentDigest": "95fdd7c8134d745268f56ddf1715524b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1493,7 +1493,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7fc6c7755c43b27ed0846915f69ab5be",
+        "contentDigest": "4e7da9284caa5196df986551f8f37c7b",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1514,7 +1514,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "674ba4e859213502330f5005d5165b84",
+        "contentDigest": "6c75d3756da7922d7294e91f1aa19f33",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1523,7 +1523,7 @@
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "md5dik81j85s-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZyw5LDgcKXw6FsRsOmwoItLMKhCxdUw6kFw7bDqcOBwq4jwpnDtWhFwqd_wrTDkcO-d8OEwrDCg1ouw5zDpMKsOSUYSsOAw55Vw7LDvm0GD0J7C07CjMK4woptwrrDpcOcEQ"
+        "md5dik81j85s-master": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyZuw43CkkHCu2_CgGQiw6HDhirCngHDs8O4MGRPw5DDtGsKwpbCq8OYSR3Cqjhkw6HDmMOww74ww5ATYsKQw6fCgsKGwpdFIGLDrW3Co8K4wo_Cl8KUVsOCOhQdwqsNw5vDqns"
       }
     },
     "PLUGINS_HASH": "381e92c9515b6a6e9e95f19edd68342d"
@@ -1563,8 +1563,7 @@
         "/blog/artwork/"
       ],
       "c4shwYI3POEGkw0Eg6kcyaQ": [
-        "/blog/automate-with-webhooks/",
-        "/"
+        "/blog/automate-with-webhooks/"
       ],
       "c31TNnjHlfaGUoMOwU0M2ogbodyTextNode": [
         "/blog/automate-with-webhooks/",
@@ -1638,7 +1637,11 @@
       ],
       "ContentfulBlogPost": [
         "/",
-        "/blog/"
+        "/blog/",
+        "/blog/static-sites-are-great/",
+        "/blog/hello-world/",
+        "/blog/artwork/",
+        "/blog/this-is-a-new-blog-post/"
       ],
       "ContentfulPerson": [
         "/"
